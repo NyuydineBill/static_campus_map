@@ -36,7 +36,7 @@ Click on various points of interest to view location details or additional infor
 
 <h5>
   
-Fork the repository.
+Fork the repository..
 
 Create a new branch for your contributions: git checkout -b feature/new-feature.
 
